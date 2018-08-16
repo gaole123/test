@@ -11,23 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string> https://www.good.top:9991/test/liaoben2.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<false/>
-					<key>url</key>
-					<string>https://www.good.top:9991/test/512x.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<false/>
-					<key>url</key>
-					<string>https://www.good.top:9991/test/57x.png</string>
+					<string>https://gzcu01.baidupcs.com/file/4cb11639e7cc7cd41373c76c5b95ca7f?bkt=p3-14004cb11639e7cc7cd41373c76c5b95ca7ff4337e740000003c908b&amp;fid=1916093336-250528-159539630029037&amp;time=1534409899&amp;sign=FDTAXGERLQBHSKW-DCb740ccc5511e5e8fedcff06b081203-mWCNtoiZ1iw7z5Ar7CVo2Osx3MY%3D&amp;to=86&amp;size=3969163&amp;sta_dx=3969163&amp;sta_cs=4&amp;sta_ft=ipa&amp;sta_ct=0&amp;sta_mt=0&amp;fm2=MH%2CYangquan%2CAnywhere%2C%2Ctianjin%2Ccnc&amp;resv0=cdnback&amp;resv1=0&amp;vuk=1916093336&amp;iv=0&amp;htype=&amp;newver=1&amp;newfm=1&amp;secfm=1&amp;flow_ver=3&amp;pkey=14004cb11639e7cc7cd41373c76c5b95ca7ff4337e740000003c908b&amp;sl=76480590&amp;expires=8h&amp;rt=sh&amp;r=933880465&amp;mlogid=5281172083483276360&amp;vbdid=4223022359&amp;fin=liaoben2.ipa&amp;fn=liaoben2.ipa&amp;rtype=1&amp;dp-logid=5281172083483276360&amp;dp-callid=0.1.1&amp;hps=1&amp;tsl=80&amp;csl=80&amp;csign=IYcGfqWPW1ocuj3eLUMYS6ccWXY%3D&amp;so=0&amp;ut=6&amp;uter=4&amp;serv=0&amp;uc=3980644694&amp;ti=26fa64dbec288224a3a622111423dbba6aae968f54b458ed305a5e1275657320&amp;by=themis</string>
 				</dict>
 			</array>
 			<key>metadata</key>
