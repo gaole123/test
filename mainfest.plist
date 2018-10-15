@@ -11,37 +11,35 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://pan.baidu.com/s/1rFUL4VtBRYm3UbgFrRAMdQ</string>
+					<string>https://t.btcc.com:9980/btccClient/SP/Client/download/999/iOS_download/gudebc_resigned.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>needs-shine</key>
-					<false/>
+					<true/>
 					<key>url</key>
-					<string>https://www.good.top:9991/test/512x.png</string>
+					<string>https://t.btcc.com:9980/btccClient/SP/Client/download/999/iOS_download/512x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>needs-shine</key>
-					<false/>
+					<true/>
 					<key>url</key>
-					<string>https://www.good.top:9991/test/57x.png</string>
+					<string>https://t.btcc.com:9980/btccClient/SP/Client/download/999/iOS_download/57x.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.liaoben.TGStock.sp</string>
+				<string>com.dami.btcccfd</string>
 				<key>bundle-version</key>
-				<string>1.1</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string>辽本商品实盘</string>
 				<key>title</key>
-				<string>辽本商品实盘</string>
+				<string>BTCC CFD</string>
 			</dict>
 		</dict>
 	</array>
